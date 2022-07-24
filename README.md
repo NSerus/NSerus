@@ -1,2 +1,1 @@
-
-[![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nserus)](https://github.com/nserus/github-readme-stats)
+![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nserus&show_icons=true&theme=radical)
