@@ -1,1 +1,1 @@
-![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nserus&show_icons=true&theme=radical)
+![Nuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=nserus&show_icons=true&theme=dracula)
